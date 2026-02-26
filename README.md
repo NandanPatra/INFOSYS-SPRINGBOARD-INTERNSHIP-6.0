@@ -21,7 +21,7 @@ An enterprise-grade Executive Healthcare Dashboard built with Streamlit, featuri
 | Category | Tools |
 |--------|------|
 Framework | Streamlit |
-Visualization | Plotly, Kaleido |
+Visualization | Plotly,MatplotLib |
 Data Processing | Pandas, NumPy |
 Geospatial | GeoPy |
 Reporting | FPDF2 |
